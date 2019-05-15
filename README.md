@@ -1,4 +1,5 @@
 # WARM Virtual Emulator (WAVE)
+## (C) 2019 Jack Murphy and Yo Akiyama
 Welcome to our WAVE repository. This WIND program hosts a virtual version of a WARM program. Warm is
 an ARM-like RISC processor, while the Wind is similar to an Intel x86-like processor.
 After evaluating the emulator on ten tests, the WAVE program passes all tests with an average speed of 24.15 
